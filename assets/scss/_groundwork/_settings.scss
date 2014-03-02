@@ -1,0 +1,22 @@
+// =============================================
+//              Custom Settings
+//          Last Updated:2013-10-20
+// =============================================
+
+$small-tablet-width:   30.125em;
+$large-tablet-width:   48em;
+$desktop-width:        64em;
+$large-desktop-width:  80em;
+
+// breakpoints
+$breakpoints:          "mobile" "small-tablet" "large-tablet" "desktop";
+$breakpoint-sizes:     0 $small-tablet-width $large-tablet-width $desktop-width;
+
+// grid system
+$grid-base:            "desktop";
+
+// navigation
+$navigation-base:      "desktop";
+
+// font awesome
+$fa-css-prefix:        "icon";
